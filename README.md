@@ -80,14 +80,18 @@ Developer Tooling & Automation            ████████████�
 
 ## Contribution Snake
 
+Contribution Snake
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namdevnaman/namdevnaman/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namdevnaman/namdevnaman/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namdevnaman/namdevnaman/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/namdevnaman/namdevnaman/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF,1a1a2e,0d1117&height=100&section=footer" width="100%" />
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1a2e,100:0d1117&height=80&section=footer&text=consistency+compounds&fontColor=ffffff&fontSize=14&fontAlign=50&fontAlignY=65" />
-
-</div>
